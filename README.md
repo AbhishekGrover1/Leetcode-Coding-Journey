@@ -57,6 +57,7 @@ My Leetcode solutions and problem-solving journey
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhishekGrover1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AbhishekGrover1/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AbhishekGrover1/Leetcode/tree/master/0012-integer-to-roman) |
@@ -64,6 +65,7 @@ My Leetcode solutions and problem-solving journey
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhishekGrover1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AbhishekGrover1/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Trie
 |  |
@@ -78,4 +80,8 @@ My Leetcode solutions and problem-solving journey
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AbhishekGrover1/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
