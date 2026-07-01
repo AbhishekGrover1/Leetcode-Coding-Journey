@@ -27,6 +27,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0042-trapping-rain-water](https://github.com/AbhishekGrover1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AbhishekGrover1/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0015-3sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekGrover1/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0039-combination-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AbhishekGrover1/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
