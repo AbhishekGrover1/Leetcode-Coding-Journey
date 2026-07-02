@@ -102,6 +102,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0043-multiply-strings](https://github.com/AbhishekGrover1/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/AbhishekGrover1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AbhishekGrover1/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/AbhishekGrover1/Leetcode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
