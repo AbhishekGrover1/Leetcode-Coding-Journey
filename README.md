@@ -33,6 +33,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0051-n-queens](https://github.com/AbhishekGrover1/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AbhishekGrover1/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AbhishekGrover1/Leetcode/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0018-4sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AbhishekGrover1/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AbhishekGrover1/Leetcode/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
