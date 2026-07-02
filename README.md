@@ -152,6 +152,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0046-permutations](https://github.com/AbhishekGrover1/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AbhishekGrover1/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0052-n-queens-ii) |
 ## Linked List
 |  |
 | ------- |
