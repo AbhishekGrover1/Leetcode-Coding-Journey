@@ -105,6 +105,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0044-wildcard-matching](https://github.com/AbhishekGrover1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AbhishekGrover1/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AbhishekGrover1/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0048-rotate-image](https://github.com/AbhishekGrover1/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AbhishekGrover1/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AbhishekGrover1/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AbhishekGrover1/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -218,4 +221,5 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0043-multiply-strings](https://github.com/AbhishekGrover1/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
