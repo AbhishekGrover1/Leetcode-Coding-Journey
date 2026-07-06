@@ -39,6 +39,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0063-unique-paths-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AbhishekGrover1/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/AbhishekGrover1/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekGrover1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbhishekGrover1/Leetcode/tree/master/0075-sort-colors) |
@@ -116,6 +117,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0049-group-anagrams](https://github.com/AbhishekGrover1/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AbhishekGrover1/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AbhishekGrover1/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/AbhishekGrover1/Leetcode/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
@@ -250,6 +252,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0054-spiral-matrix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AbhishekGrover1/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AbhishekGrover1/Leetcode/tree/master/0068-text-justification) |
 ## Memoization
 |  |
 | ------- |
