@@ -1,8 +1,7 @@
-# Leetcode
-A collection of my LeetCode solutions, showcasing problem-solving skills, data structures, and algorithms.
-
+# Algorithm-Archive
+An evolving collection of DSA patterns and algorithmic solutions!!
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Topics
 ## Array
 |  |
 | ------- |
