@@ -160,6 +160,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0115-distinct-subsequences](https://github.com/AbhishekGrover1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AbhishekGrover1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AbhishekGrover1/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ An evolving collection of DSA patterns and algorithmic solutions!!
 | [0089-gray-code](https://github.com/AbhishekGrover1/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/AbhishekGrover1/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/AbhishekGrover1/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
